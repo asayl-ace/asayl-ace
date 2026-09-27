@@ -1,27 +1,8 @@
 <div align="center">
-
-  <!-- HERO -->
-  
-
-  <h1>Hi, I'm Asayel 👋</h1>
-
-  <h3>I build from idea to interface.</h3>
-
-  <p>
-    <code>Code</code> &nbsp;·&nbsp;
-    <code>Design</code> &nbsp;·&nbsp;
-    <code>Create</code>
-  </p>
-
-  <br>
-
-  <img src="YOUR_HERO_VISUAL_URL" width="650" alt="Creative tech visual"/>
-
+  <img src="./assets/asayel-banner.png" width="100%" alt="Asayel"/>
 </div>
 
 <br>
-
----
 
 <div align="center">
 
