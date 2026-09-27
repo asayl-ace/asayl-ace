@@ -42,6 +42,7 @@
 <img src="https://img.shields.io/badge/Flutter-0A2226?style=for-the-badge&logo=flutter&logoColor=46B8CB"/>
 <img src="https://img.shields.io/badge/Dart-0A2226?style=for-the-badge&logo=dart&logoColor=46B8CB"/>
 <img src="https://img.shields.io/badge/Figma-0A2226?style=for-the-badge&logo=figma&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Django-0A2226?style=for-the-badge&logo=django&logoColor=092E20"/>
 <img src="https://img.shields.io/badge/Supabase-0A2226?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 <img src="https://img.shields.io/badge/Git-0A2226?style=for-the-badge&logo=git&logoColor=F97316"/>
 <img src="https://img.shields.io/badge/GitHub-0A2226?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
