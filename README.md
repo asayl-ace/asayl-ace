@@ -23,41 +23,11 @@
 
 ## ✦ What I Build
 
+| 📱 Mobile Applications | 🎨 UI/UX Experiences | 💻 Software Solutions |
+| :---: | :---: | :---: |
+| **Flutter & Dart**<br>Cross-platform mobile apps | **Figma & UCD**<br>User-centered designs | **End-to-End**<br>From idea to implementation |
+
 </div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <br>
-      📱
-      <br><br>
-      <b>Mobile Applications</b>
-      <br>
-      <sub>Flutter & Dart</sub>
-      <br><br>
-    </td>
-
-    <td align="center" width="200">
-      <br>
-      🎨
-      <br><br>
-      <b>UI/UX Experiences</b>
-      <br>
-      <sub>Figma & User-Centered Design</sub>
-      <br><br>
-    </td>
-
-    <td align="center" width="200">
-      <br>
-      💻
-      <br><br>
-      <b>Software Solutions</b>
-      <br>
-      <sub>From idea to implementation</sub>
-      <br><br>
-    </td>
-  </tr>
-</table>
 
 <br>
 
@@ -87,54 +57,10 @@
 
 <div align="center">
 
-## ✦ From Idea → Interface → Product
+## ✦ Development Workflow
 
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>💡 Idea</b>
-      <br>
-      <sub>Understand the problem</sub>
-    </td>
-
-    <td align="center">→</td>
-
-    <td align="center">
-      <b>🎨 Design</b>
-      <br>
-      <sub>Shape the experience</sub>
-    </td>
-
-    <td align="center">→</td>
-
-    <td align="center">
-      <b>&lt;/&gt; Build</b>
-      <br>
-      <sub>Turn ideas into code</sub>
-    </td>
-
-    <td align="center">→</td>
-
-    <td align="center">
-      <b>📱 Product</b>
-      <br>
-      <sub>Make it useful</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   01  const idea = design                  │
-│   02  const product = build(idea)          │
-│   03                                       │
-│   04  ✦ make it useful                    │
-│                                             │
-└─────────────────────────────────────────────┘
+```mermaid
+graph LR
+    A[💡 Idea] --> B[🎨 Design]
+    B --> C[💻 Build]
+    C --> D[📱 Product]
